@@ -1,0 +1,35 @@
+_normal
+_inPlane_average
+_inPlane_AnisoIndex
+_normal2InplaneAverage
+_normal2InplaneIndex
+mean	sdiv	COV	m	m_pThetaD	m_aPhiD	m_pThetaR	m_aPhiR	m_pThetaI	m_aPhiI	M	M_pThetaD	M_aPhiD	M_pThetaR	M_aPhiR	M_pThetaI	M_aPhiI
+
+_inPlane_AnisoIndexSummary
+normal
+inPlaneMean
+inPlaneA
+normal2Inplane
+normal2InplaneIndex
+
+
+_inPlane_AnisoIndexInPlaneValues
+values
+
+
+ACn_summary:
+
+ACn_ACn
+ACn_outOfPlaneStiffness
+ACn_inPlaneStiffness
+ACn_outOfPlane2InplaneNormalStiffness
+ACn_polarThetaDeg
+ACn_azimuthalPhiDeg
+ACn_polarThetaRad
+ACn_azimuthalPhiRad
+ACn_polarThetaIndex
+ACn_azimuthalPhiIndex
+
+
+ACn_Rotated_CIso
+C11 C12	C66	C13	C33	C44

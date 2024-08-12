@@ -1,0 +1,6 @@
+C11	C12	C66	C13	C33	C44
+numAngleFields	0
+startAngleCols 
+addedAngleNames	
+
+ACn_Rotated_CIso

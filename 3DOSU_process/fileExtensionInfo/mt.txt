@@ -1,0 +1,11 @@
+fiber_z_ACn
+fiber_z_Cn_inPlane_AnisoIndex
+fiber_z_Cn_inPlane_average
+fiber_z_Cn_normal
+fiber_z_Cn_normal2InplaneAverage
+fiber_z_Cn_normal2InplaneIndex
+fiber_z_sn_inPlane_AnisoIndex
+fiber_z_sn_inPlane_average
+fiber_z_sn_normal
+fiber_z_sn_normal2InplaneAverage
+fiber_z_sn_normal2InplaneIndex

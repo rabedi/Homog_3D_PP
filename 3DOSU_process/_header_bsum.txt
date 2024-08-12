@@ -1,0 +1,6 @@
+ACn	Cn	CInPlane	Cn2CInPlane		ACn_polarDeg	ACn_azimuthalDeg	ACn_polarRad	ACn_azimuthalRad		ACn_polarIndex	ACn_azimuthalIndex
+numAngleFields	1
+startAngleCols 5
+addedAngleNames	ACn
+
+ACn_summary

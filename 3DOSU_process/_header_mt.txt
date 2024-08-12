@@ -1,0 +1,11 @@
+ACn
+Cn_normal2InplaneIndex
+Cn_normal2InplaneAverage
+Cn_inPlane_AnisoIndex
+Cn_inPlane_average
+Cn_normal
+sn_normal2InplaneIndex
+sn_normal2InplaneAverage
+sn_inPlane_AnisoIndex
+sn_inPlane_average
+sn_normal

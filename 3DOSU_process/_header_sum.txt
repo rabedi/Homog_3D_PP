@@ -1,0 +1,18 @@
+mean	sdiv	COV	m	m_pThetaD	m_aPhiD	m_pThetaR	m_aPhiR	m_pThetaI	m_aPhiI	M	M_pThetaD	M_aPhiD	M_pThetaR	M_aPhiR	M_pThetaI	M_aPhiI
+numAngleFields	2
+startAngleCols 5	12
+addedAngleNames	min Max
+
+ACn
+Cn_inPlane_AnisoIndex
+Cn_inPlane_average
+Cn_normal
+Cn_normal2InplaneAverage
+Cn_normal2InplaneIndex
+sn_inPlane_AnisoIndex
+sn_inPlane_average
+sn_normal
+sn_normal2InplaneAverage
+sn_normal2InplaneIndex
+
+

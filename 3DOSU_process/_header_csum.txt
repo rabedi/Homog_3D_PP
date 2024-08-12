@@ -1,0 +1,13 @@
+normalValue	averageInPlaneVal	AnisotropyInPlane normal2AveInPlane	normalInPlaneIndex
+numAngleFields	0
+startAngleCols 
+addedAngleNames	
+
+Cn_inPlane_AnisoIndexSummary
+sn_inPlane_AnisoIndexSummary
+
+
+END
+values
+normalValue(nVal)		inPlaneAverage(tVal)		InPlaneAnisotropyIndex(COV_inPlaneVal/mean_inPlaneVal)	
+normal2InPlane(nVal/tVal)		normalInPlaneIndex(nVal/tVal + tVal/nVal - 2)

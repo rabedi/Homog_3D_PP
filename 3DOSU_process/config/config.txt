@@ -1,0 +1,38 @@
+stiffnessNormalizer	2.77e9
+interfaceStrength	1
+strengthModelIsMC	1
+MC_k	100.0
+square_beta	-1e-6
+strengthType(1->matrix,2->fiber,3->aveTrac)
+3
+
+num_polarThetaSegments	30
+num_azimuthalPhiSegments	120
+num_fibers2Read(-1->all)	1000000
+AnisoIndexEq_max2minMinus1	0
+printScalarVals 1
+polarFromPole	1
+b_plot_print(0->no,1->yes,2->onlyForFreshC,snComputation)	1
+plot_pdfs	1
+root_path	../3DOSU_data
+root_folder		fiber_z
+output_root_path	../3DOSU_data_out
+SVE_startNo	0
+SVE_endNo	10000
+
+
+# 1->matrix
+# traction of matrix is used for strength calculation
+# 2->fiber
+# traction of fiber is used for strength calculation
+# 3->aveTrac
+# average traction of matrix and fiber is used for strength calculation
+# 4->aveEffStress
+# effective stress is calculated separately from fiber and matrix. Finally, the average of the two are taken
+# 5->minEffStress
+# minimum of strengths calculated from fiber and matrix is taken 
+
+num_fibers2Read(-1->all)	1000000		
+# for only shear (and 1e-6 part normal) in square root model, use below
+square_beta	-1e-6
+Tresca: MC + k = 0
